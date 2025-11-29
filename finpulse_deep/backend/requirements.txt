@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+numpy
+python-multipart
+python-dotenv
+requests
+python-jose[cryptography]
+passlib[bcrypt]
+python-dateutil
+pip install yfinance aiohttp
